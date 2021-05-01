@@ -1,2 +1,4 @@
 env_lp
 *.json
+__pycache__
+*.egg*
